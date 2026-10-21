@@ -1,5 +1,7 @@
 # Pseudorange Differential Positioning
 
+[中文说明](README.zh-CN.md)
+
 This directory contains the main pseudorange differential positioning program
 from the undergraduate graduation project.
 
